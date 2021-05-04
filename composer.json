@@ -1,0 +1,6 @@
+{
+  "name": "slartus/viberbot",
+  "require": {
+    "twig/twig": "^3.0"
+  }
+}
